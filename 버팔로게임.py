@@ -1,6 +1,9 @@
 import turtle
 import winsound
 import time
+
+import os
+os.chdir(os.path.dirname(__file__))
 #이미지 지정, 변수 지정
 imagename = ["Block.gif","BuffaloUnit.gif","DogUnit.gif","HunterUnit.gif","InteractiveBlock.gif","SeaBlock.gif"]
 NumberImageName=["-five.gif","-four.gif","-three.gif","-two.gif","-one.gif","zero.gif","one.gif","two.gif","three.gif","four.gif","five.gif"]
@@ -261,8 +264,7 @@ print("Up 버튼 누를시 게임 시작")
 if Start=="false":
     s.onkey(InstallationFunction,"Up")
     s.listen()
-
-
+turtle.done()
 
 
 
