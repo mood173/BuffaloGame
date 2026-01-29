@@ -1,5 +1,5 @@
-<img width="1909" height="1013" alt="542046760-142d201b-d2d5-4e3b-9bcb-cf702b122117" src="https://github.com/user-attachments/assets/7baa3721-b788-41a1-a012-73029175d099" />
-  <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/e064afc2-f58b-4b70-9d45-b26562734a0c" />
+<img width="1919" height="1015" alt="542059703-e064afc2-f58b-4b70-9d45-b26562734a0c" src="https://github.com/user-attachments/assets/3acee420-546a-4ac0-9dfa-8099f0852ab4" />
+
 
 버팔로 보드게임을 디지털로 구현한 방법으로 
 화면과 같이 배치후 X,Y좌포로 기물지정 및 네, 아니오로 진행하시면 됩니다.
